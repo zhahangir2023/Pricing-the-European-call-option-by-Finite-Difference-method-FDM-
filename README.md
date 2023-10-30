@@ -1,2 +1,2 @@
 # Pricing-the-European-call-option-by-Finite-Difference-method-FDM-
-Will put later
+This is the scientific project that was done by Zhahangir (Surname), for pricing the European call option by Finite Difference method. In order to obtain the pricing results one shall run the file:Run_this_for_FDM_European_call_option.m with appropriate choice of number of time and space grids. This project involves strictly a learning purpose with possible future extension for more complicated nonlinear PDEs. However, I believe that this could be a good starting point for someone who wants to investigate this direction. For more detailed information do not hesitate to email me. Email: Write your email.
